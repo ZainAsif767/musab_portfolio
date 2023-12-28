@@ -1,8 +1,8 @@
 import logoW from "./logoW.png";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
+import video from "./video.png";
+import AI from "./AI.png";
+import sustainability from "./sustainability.png";
+import environment from "./environment.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -21,10 +21,11 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import pizza from "./company/pizza.png";
+import electric from "./company/electric.png";
+import DigiPersona from "./company/DigiPersona.png";
+import GameKahani from "./company/GameKahani.png";
+import eco from "./company/eco.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -32,10 +33,11 @@ import tripguide from "./tripguide.png";
 
 export {
   logoW,
-  backend,
-  creator,
-  mobile,
-  web,
+  video,
+  AI,
+  eco,
+  sustainability,
+  environment,
   github,
   menu,
   close,
@@ -52,10 +54,10 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  pizza,
+  electric,
+  DigiPersona,
+  GameKahani,
   carrent,
   jobit,
   tripguide,

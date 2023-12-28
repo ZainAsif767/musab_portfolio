@@ -47,11 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        🌍 Hi there! I'm Musab Ahmed, a content creator on a mission to bridge my passion for the environment and sustainability with the world of AI and tech 🚀. Together, let's delve into green technologies, ethical AI, and the positive impact we can create for our planet 🌱. Subscribe for a unique blend of tech enthusiasm and environmental advocacy. Let's shape a greener future through knowledge and inspiration! 🎥✨
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
