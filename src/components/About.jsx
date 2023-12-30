@@ -50,7 +50,7 @@ const About = () => {
         🌍 Hi there! I'm Musab Ahmed, a content creator on a mission to bridge my passion for the environment and sustainability with the world of AI and tech 🚀. Together, let's delve into green technologies, ethical AI, and the positive impact we can create for our planet 🌱. Subscribe for a unique blend of tech enthusiasm and environmental advocacy. Let's shape a greener future through knowledge and inspiration! 🎥✨
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className=' justify-evenly mt-20 flex flex-wrap gap-5'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}

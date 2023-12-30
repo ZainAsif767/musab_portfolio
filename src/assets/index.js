@@ -27,7 +27,7 @@ import DigiPersona from "./company/DigiPersona.png";
 import GameKahani from "./company/GameKahani.png";
 import eco from "./company/eco.png"
 
-import carrent from "./carrent.png";
+import janah from "./janah.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -58,7 +58,7 @@ export {
   electric,
   DigiPersona,
   GameKahani,
-  carrent,
+  janah,
   jobit,
   tripguide,
 };

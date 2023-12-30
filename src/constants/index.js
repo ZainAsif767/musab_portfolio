@@ -20,7 +20,7 @@ import {
   DigiPersona,
   GameKahani,
   electric,
-  carrent,
+  janah,
   jobit,
   tripguide,
   threejs,
@@ -32,8 +32,12 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "work",
-    title: "Work",
+    id: "experience",
+    title: "Experience",
+  },
+  {
+    id: "projects",
+    title: "Projects",
   },
   {
     id: "contact",
@@ -120,7 +124,7 @@ const experiences = [
     title: "General Manager",
     company_name: "Digi Persona Pvt Lt",
     icon: DigiPersona,
-    iconBg: "#383E56",
+    iconBg: "#000000",
     date: "August 2023 - Present",
     points: [
       "Manage onboard resources.",
@@ -144,7 +148,7 @@ const experiences = [
     title: "Video Editor",
     company_name: "Electric Aviation",
     icon: electric,
-    iconBg: "#383E56",
+    iconBg: "#ffffff",
     date: "Jan 2021 - Dec 2021",
     points: [
       "Edited Video according to the script",
@@ -154,7 +158,7 @@ const experiences = [
     title: "Owner (CEO)",
     company_name: "Junaidi's Pizzeria",
     icon: pizza,
-    iconBg: "#E6DEDD",
+    iconBg: "#000000",
     date: "Jan 2023 - Present",
     points: [
       "Manage the day to day operations of the outlet.",
@@ -164,7 +168,7 @@ const experiences = [
     title: "Project Manager",
     company_name: "Ecological Welfare Organization",
     icon: eco,
-    iconBg: "#E6DEDD",
+    iconBg: "#FFFFFF",
     date: "Jan 2017 - 2018",
     points: [
       "Delivered the eco-blocks project of UNDP where we produced",
@@ -203,25 +207,17 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Janah Al Saqar",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web Application made on wordpress that enable users to book for cargo and logistics around the world, the application provides services. Authentication and payment also implemented.",
     tags: [
       {
-        name: "react",
+        name: "WordPress",
         color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
+      }
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: janah,
+    source_code_link: "https://janahalsaqar.com",
   },
   {
     name: "Job IT",
