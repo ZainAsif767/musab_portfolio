@@ -7,19 +7,16 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import youtube from "./tech/youtube.png";
+import midjourney from "./tech/midjourney.png";
+import davinci from "./tech/davinci.png";
+import runway from "./tech/runway.png";
+import wise from "./tech/wise.png";
+import google from "./tech/google.png";
+import facebook from "./tech/facebook.png";
+import twitter from "./tech/twitter.png";
+import wordpress from "./tech/wordpress.png";
+import binance from "./tech/binance.png";
 
 import pizza from "./company/pizza.png";
 import electric from "./company/electric.png";
@@ -41,19 +38,16 @@ export {
   github,
   menu,
   close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
+  youtube,
+  midjourney,
+  davinci,
+  runway,
+  wise,
+  google,
+  facebook,
+  twitter,
+  wordpress,
+  binance,
   pizza,
   electric,
   DigiPersona,

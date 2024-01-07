@@ -4,18 +4,15 @@ import {
   eco,
   AI,
   environment,
-  javascript,
-  typescript,
-  html,
-  css,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
-  git,
-  figma,
-  docker,
+  davinci,
+  wordpress,
+  midjourney,
+  youtube,
+  google,
+  facebook,
+  twitter,
+  wise,
+  runway,
   pizza,
   DigiPersona,
   GameKahani,
@@ -23,7 +20,7 @@ import {
   janah,
   jobit,
   tripguide,
-  threejs,
+  binance,
 } from "../assets";
 
 export const navLinks = [
@@ -66,56 +63,44 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Midjourney",
+    icon: midjourney,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "YouTube",
+    icon: youtube,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
+    name: "Davinci Resolve",
+    icon: davinci,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Wordpress",
+    icon: wordpress,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Google",
+    icon: google,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Facebook",
+    icon: facebook,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "X Corp",
+    icon: twitter,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Wise",
+    icon: wise,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Runway ML",
+    icon: runway,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
+    name: "Binance",
+    icon: binance,
   },
 ];
 
