@@ -209,7 +209,7 @@ const projects = [
   {
     name: "Janah Al Saqar",
     description:
-      "Web Application made on wordpress that enable users to book for cargo and logistics around the world, the application provides services. Authentication and payment also implemented.",
+      "Web Application made on wordpress that enable users to book for cargo and logistics around the world, the application provides services.",
     tags: [
       {
         name: "WordPress",
