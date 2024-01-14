@@ -3,7 +3,7 @@ import video from "./video.png";
 import AI from "./AI.png";
 import sustainability from "./sustainability.png";
 import environment from "./environment.png";
-import github from "./github.png";
+import www from "./www.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -35,7 +35,7 @@ export {
   eco,
   sustainability,
   environment,
-  github,
+  www,
   menu,
   close,
   youtube,
